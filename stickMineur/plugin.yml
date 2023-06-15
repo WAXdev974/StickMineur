@@ -1,0 +1,8 @@
+---
+name: stickMineur
+version: 1.0
+author: wax_dev
+main: wax_dev\stickMineur\Main
+api: 4.22.1
+src-namespace-prefix: wax_dev\stickMineur
+...
